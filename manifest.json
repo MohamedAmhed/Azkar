@@ -1,0 +1,21 @@
+{
+  "name": "تطبيق أذكاري",
+  "short_name": "أذكاري",
+  "description": "تطبيق للأذكار بعد الصلاة وغيرها، سهل الاستخدام.",
+  "start_url": "/اذكاري.html",
+  "display": "standalone",
+  "background_color": "#f8fdfa",
+  "theme_color": "#0d8a5f",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
